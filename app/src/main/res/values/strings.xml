@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Xiu LockAgent</string>
+    <string name="accessibility_service_desc">Layanan Aksesibilitas Xiu LockAgent untuk navigasi otomatis, deteksi elemen UI, klik cerdas, dan gestur cadangan.</string>
+    <string name="service_notification_title">Xiu LockAgent Aktif</string>
+    <string name="service_notification_desc">Maskot AI otonom siap memproses perintah suara dan automasi layar.</string>
+</resources>

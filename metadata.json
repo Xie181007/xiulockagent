@@ -1,0 +1,6 @@
+{
+  "name": "Xiu LockAgent",
+  "description": "Autonomous Android AI Agent with floating mascot overlay, Indonesian voice recognition, accessibility automation, and device health monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
